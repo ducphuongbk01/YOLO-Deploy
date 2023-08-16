@@ -10,4 +10,4 @@ Generate 2 file:
   1. yolov5s.onnx: convert from .pt file trained in source code.
   2. classes_list.txt: include all your model classes with correct index.
 
-And change file diection in Camera object constructor.
+And change file direction in Camera object constructor.
